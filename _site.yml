@@ -1,0 +1,14 @@
+name: "I can Internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<tmc2184@cumc.columbia.edu>
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/c_talea?lang=en
+    - icon: fa-github fa-lg
+      href: http://github.com/taleac/this_is_a_website/
+output:
+  html_document:
+    theme: cerulean

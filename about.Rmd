@@ -1,0 +1,408 @@
+---
+title: "Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Academic Appointments and Other Work Experience
+
+**Academic Appointments**
+
+07/2020-present   Assistant Professor
+
+Columbia University Irving Medical Center	New York, NY
+
+		
+07/2018-06/2020   Instructor in Medical Sciences
+
+Columbia University Irving Medical Center	New York, NY
+
+
+**Other Work Experience**
+
+07/2012-03/2013   Licensed Social Worker
+
+Jewish Family Service,	Somerville, NJ
+
+
+
+# Education
+
+09/2019-present   Columbia University, Mailman School of Public Health, New York, NY
+
+M.S., Biostatistics, expected May 2023
+	
+09/2013-05/2017   University of Connecticut, Department of Psychological Sciences, Storrs, CT
+
+Ph.D., Social Psychology, May 2017
+
+M.A., Social Psychology, May 2014
+	
+09/2010-05/2012   Boston University, School of Social Work, Boston, MA
+
+M.S.W., May 2012
+	
+09/2006-05/2010   Rutgers University, College of Arts and Sciences, New Brunswick, NJ
+
+B.A., Psychology, May 2010
+
+
+# Training
+
+07/2017-06/2018   Postdoctoral Research Scientist 
+
+The Center for Behavioral Cardiovascular Health, Columbia University Medical Center, New York, NY
+	
+05/2016   Graduate Certificate in Quantitative Research 
+
+University of Connecticut, Storrs, CT
+	
+09/2013-06/2015   Graduate Assistant
+
+University of Connecticut, Storrs, CT
+	
+09/2011-04/2012	Social Work Intern    
+
+Inpatient Services, Dr. Solomon Carter Fuller Mental Health Center, Boston, MA
+	
+09/2010-04/2011   Social Work Intern
+
+Big Sister Association of Greater Boston, Boston, MA
+
+
+# Licensure
+
+2012-2013   Licensed Social Worker (inactive), New Jersey
+
+
+# Honors and Awards
+
+2018    Scholar, Young Investigator Colloquium, American Psychosomatic Society
+
+2006-2010   Rutgers National Scholarship, Rutgers University
+
+
+# Academic Service
+
+Society of Behavioral Medicine
+2020-2021   Theories and Techniques of Behavior Change Intervention Special Interest Group, Junior Co-Chair
+
+University of Connecticut
+11/2014-5/2015    Graduate Student Senate, Vice President
+
+
+#Professional Organizations and Societies
+
+**Membership and Positions**
+
+2017-present    Member, Resource Coordinating Center, Science of Behavior Change, U24AG052175 (PI: Dr. Karina Davidson), National Institutes of Health, Columbia University Medical Center
+
+2017-present    Member, American Psychosomatic Society 
+
+2015-present    Member, Society of Behavioral Medicine
+
+2013-2014, 
+2017-present    Member, Association for Psychological Science 
+
+2014-present    Member, Society for Personality and Social Psychology
+
+2014-2016   Member, American Psychological Association
+
+2012-2014   Member, National Association of Social Workers
+
+**Grant Reviewer**
+
+•	Swiss National Science Foundation
+
+**Ad Hoc Reviewing**
+
+•	Ageing Research Reviews
+
+•	American Journal of Epidemiology
+
+•	Annals of Behavioral Medicine
+
+•	Comprehensive Psychiatry
+
+•	General Hospital Psychiatry
+
+•	Health Psychology
+
+•	Health Psychology Review
+
+•	Journal of American College Health
+
+•	Journal of Health Psychology
+
+•	Journal of Psychosomatic Research
+
+•	Journal of Substance Abuse Treatment
+
+•	Patient Education and Counseling
+
+•	Personality and Social Psychology Bulletin
+
+•	Psychosomatic Medicine
+
+•	Social Science & Medicine
+
+
+# Fellowship and Grant Support
+
+**Present Support**
+
+2020-   Primary Investigator
+
+Exploring the effects of social isolation, relational quality, and communication on couples’ physical, mental, and relational health during the COVID-19 pandemic
+
+(co-PI: Dr. Talea Cornelius, Dr. Amanda Denes), Institute for Collaboration on Health, Intervention, and Policy, University of Connecticut
+	
+2020-   Trainee
+
+KL2 Mentored Career Development Award (project title: The Association of ED Stressors with Psychological Distress and Physical Activity in Cardiac Patients and their Partners), KL2 TR001874
+
+(PI: Dr. Daichi Shimbo) National Institutes of Health (NIH)/National Center for Advancing Translational Sciences (NCATS), Columbia University
+
+2018-   Co-Investigator
+
+Impact of Social-Interpersonal Factors in the ER on PTSD/Cardiac Outcomes, 5R01HL117832
+
+(PI: Dr. Donald Edmondson), National Institutes of Health (NIH)/ National Heart, Lung, and Blood Institute (NHLBI), Columbia University
+
+2017-   Co-Investigator
+
+Columbia University Science of Behavior Change Resource and Coordinating Center, U24AG052175
+
+(co-PI: Dr. Karina Davidson, Dr. Donald Edmondson), National Institutes of Health (NIH)/National Institute on Aging (NIA), Columbia University
+ 
+
+**Past Support**
+
+2018    Statistical Consultant
+
+Test of a Theory-Based Weight Loss Program for Couples: Project TEAMS, 5R21HL125157
+
+(PI: Dr. Amy Gorin), National Institutes of Health (NIH), University of Connecticut
+
+2018    Statistical Consultant
+
+Can social support mitigate the stress of weight management? Investigating physiological stress responses to couples’ communication about weight loss
+
+(PI: Dr. Amanda Denes), Research Excellence Program, Office of the Vice President of Research, University of Connecticut
+ 
+2015-2017   Predoctoral Fellow
+
+Social Processes of AIDS Pre-Doctoral Training Grant, T32MH074387 
+
+(PI: Dr. Seth Kalichman), National Institute of Mental Health, University of Connecticut
+
+2013-2015	
+
+Outstanding Scholar Fellowship
+
+University of Connecticut
+
+
+# Educational Contributions
+
+**Direct Teaching and Supervising**
+
+07/2019-08/2019, 07/2020    Co-Instructor
+
+Systematic Review and Meta-Analysis, Mailman School of Public Health, Columbia University, New York, NY 
+06/2016, 06/2017    Teaching Assistant
+
+DATIC Dyadic Analysis Workshop, University of Connecticut, Storrs, CT
+	
+10/2015, 09/2016    Guest Lecturer
+
+Health Psychology, University of Connecticut, Storrs, CT
+
+09/2014-05/2015   Lab Instructor
+
+Principles of Research in Psychology, University of Connecticut, Storrs, CT
+	
+01/2014-05/2014   Lab Instructor
+
+General Psychology II, University of Connecticut, Storrs, CT
+	
+09/2013-12/2013   Lab Instructor
+
+General Psychology I, University of Connecticut, Storrs, CT
+	
+**Advising and Mentorship**
+		
+2020    Columbia University Medical Center
+
+Lilly Derby (*Science of Behavior Change Project Manager*)
+
+Julia Ellis (*Clinical Research Coordinator*)
+
+Othanya Garcia (*Clinical Research Coordinator*)
+
+2019    Columbia University Medical Center
+
+Lilly Derby (*Science of Behavior Change Project Manager*)
+
+Julia Ellis (*Clinical Research Coordinator*)
+
+Othanya Garcia (*Clinical Research Coordinator*)
+
+2018    Columbia University Medical Center
+
+Lilly Derby (*Science of Behavior Change Project Manager*)
+
+Julia Ellis (*Clinical Research Coordinator*)
+
+Othanya Garcia (*Clinical Research Coordinator*)
+
+2017    Columbia University Medical Center
+
+Othanya Garcia (*Clinical Research Coordinator*)
+
+Randy Casals (*T35 Medical Student*)
+
+2016    University of Connecticut
+
+Maranda Jones (*Undergraduate Student*)
+
+
+# Publications
+
+**Original, Peer-Reviewed Research Publications in Print or Other Media**
+
+1.	Liyanage-Don, N., Birk, J. L., Cornelius, T., Sanchez, G. J., Moise, N., Edmondson, D. E., & Kronish, I. M. (in press) Medications as traumatic reminders in patients with stroke/TIA-induced PTSD. Stroke.
+
+2.	Kronish, I. M., Cornelius, T., Schwartz, J. E., Shechter, A., Diaz, K., Romero, E. K., & Edmondson, D. (in press). Posttraumatic stress disorder and electronically-measures medication adherence after suspected acute coronary syndromes. Circulation.
+
+3.	Vail, K. E., Reed, D., Goncy, E., Cornelius, T., & Edmondson, D. (in press). Anxiety buffer disruption: Self-evaluation, death anxiety, and stressor appraisals among low and high posttraumatic stress symptom samples. Journal of Social and Clinical Psychology. 
+
+4.	Bryant, K. B., Jannat-Khah, J.P., Cornelius, T., Khodneva, Y., Richman, J., Fleck, E. M., Torres-Deas, L. M., Safford, M. M., & Moise, N. (2020). Time-varying depressive symptoms, cardiovascular and all-cause mortality: Does the risk vary by age or gender. Journal of American Health Association. doi: 10.1161/JAHA.120.016661
+
+5.	Lanier, Y., Amutah-Onukagha, N., Cornelius, T., Lavarin, C., & Kershaw, T. (2020). Interpartner concordance on relationship quality and sexually transmitted infections among young pregnant and parenting couples Sexually Transmitted Diseases, 10. doi:10.1097/OLQ.0000000000001281
+
+6.	Cooksey Stowers, K., Martin, K. S., Read, M., McCabe, M., Cornelius, T., Wolff, M., Xu, R., & Schwartz, M. B. (2020). Supporting wellness at pantries (SWAP): Changes to inventory in six food pantries over one year. Journal of Public Health. doi: 10.1007/s10389-020-01350-8
+
+7.	Shechter, A., Diaz, F., Moise, N., Antsey, D. E., Ye, S., Agarwal, S., Birk, J. L., Brodie, D., Cannone, D. E., Chang, B., Claassen, J., Cornelius, T., Derby, L., Dong, M., Givens, R. C., Hochman, B., Homma, S., Kronish, I. M., Lee, S. A. J., Manzano, W., Mayer, L. E. S., McMurry, C. L., Moitra, V., Pham, P., Rabbani L., Rivera, R. R., Schwartz, A., Schwartz, J., Shapiro, P., Shaw, K., Sullivan, A. M., Vose, C., Wasson, L., Edmondson, D., & Abdalla, M. (2020). Psychological distress, coping behaviors, and preferences for support among New York healthcare workers during the COVID-19 pandemic. General Hospital Psychiatry, 66, 1-8. doi: 10.1016/j.genhosppsych.2020.06.007
+
+8.	Bourassa, K. J., Cornelius, T., & Birk, J. L. (2020). Bereavement is associated with reduced systemic inflammation: C-reactive protein before and after widowhood. Brain, Behavior, and Immunity. doi: 10.1016/j.bbi.2020.04.023
+
+9.	Cornelius, T., Schwartz, J.E., Balte, P., Bhatt, S. P., Cassano, P.A., Currow, D., …, & Oelsner, E. C. (2020). A dyadic growth modeling approach to examine associations between weight gain and lung function decline: The NHLBI Pooled Cohorts Study. American Journal of Epidemiology. doi: 10.1093/aje/kwaa059
+
+10.	Cornelius, T., Birk, J. L., Bourassa, K., Umland, R. C., & Kronish, I. (2020). Partner presence in the emergency department and adherence to daily cardiovascular medications in patients evaluated for acute coronary syndrome. Journal of Behavioral Medicine. doi: 10.1007/s10865-020-00139-0
+
+11.	Cornelius, T., Birk, J. L., Edmondson, D., & Schwartz, J. E. (2020). Ambulatory blood pressure response to romantic partner interactions and long-term cardiovascular health outcomes. Psychosomatic Medicine. 82(4), 393-401. doi: 10.1097/PSY.0000000000000793
+
+12.	Cornelius, T., Vilchinsky, N., Fait, K., Matetzky, S., & Hod, H. (2020). Early exposure to cardiac treatment and distress among patients and their caregiving partners. Frontiers in Psychology. doi: 10.3389/fpsyg.2020.00141
+
+13.	Chang, B.P., Cornelius, T., Willey, J.Z., Elkind, M.E., Derby, L., Edmondson, D., & Kronish, I. (2020). Are patients afraid to go home? Disposition preferences after transient ischemic attack and minor stroke. Emergency Medicine Journal. doi: 10.1136/emermed-2019-209154
+
+14.	Gorin, A. A., Powers, T. A., Gettens, K., Cornelius, T., Koestner, R., Mobley, A. R., Pescatello, L. S., & Huedo-Medina, T. B. (2020). A randomized controlled trial of a theory-based weight loss program for couples. Health Psychology, 39(2). doi: 10.1037/hea0000808
+
+15.	Moore, K.E., Gordon, D. M., Cornelius, T., & Kershaw, T. (2019). Social network characteristics among racial/ethnic minority young adult males with prior criminal justice system involvement. Deviant Behavior. doi: 10.1080/01639625.2019.1685491
+
+16.	Friel, C., Cornelius, T., & Diaz, K. M. (2019). Factors associated with long-term wearable physical activity monitor user engagement. Translational Behavioral Medicine. doi: 10.1093/tbm/ibz153
+
+17.	Cornelius, T., Voils, C. I., Umland, R. C., & Kronish, I. M. (2019). Validity of the self-reported domains of subjective extent of nonadherence (DOSE-Nonadherence) scale in comparison with electronically measured adherence to cardiovascular medications. Patient Preference and Adherence, 2019(13), 1677-1684. doi: 10.2147/PPA.S225460
+
+18.	Cornelius, T., Derby, L., Dong, M., & Edmondson, D. (2019). The impact of support provided by close others in the emergency department on threat perceptions. Psychology and Health. doi: 10.1080/08870446.2019.1643023
+
+19.	Duran, A. T., Garber, C. E., Cornelius, T., Schwartz, J.E., & Diaz, K.M. (2019). Patterns of sedentary behavior in the first month after acute coronary syndrome. Journal of the American Heart Association, 8(15), e011585. doi: 10.1161/JAHA.118.011585
+
+20.	Birk, J., Cornelius, T., Edmondson, D., & Schwartz. J. (2019) Duration of perseverative thinking as related to perceived stress and blood pressure: An ambulatory monitoring study. Psychosomatic Medicine. doi: 10.1097/PSY.0000000000000727
+
+21.	Vail, K. E., Courtney, E., Goncy, E., Cornelius, T., & Edmondson, D. (2019). Anxiety buffer disruption: Relationship threat, death-thought accessibility, and stress coping appraisals among low and high posttraumatic stress symptom samples. Journal of Social and Clinical Psychology, 38(6), 501-521. doi: 10.1521/jscp.2019.38.6.501
+
+22.	Agarwal, S., Presciutti, A., Cornelius, T., Birk, J. L., Roh, D. J., Park, S., Claassen, J., Elkind, M. S. V., & Edmondson, D. (2019). Cardiac arrest and the subsequent hospitalization-induced posttraumatic stress is associated with 1-year risk of major adverse cardiovascular events and all-cause mortality. Critical Care Medicine. doi: 10.1097/CCM.0000000000003713
+ 
+23.	Cornelius, T., Meli, L., Thorson, K. R., Chang, B., Edmondson, D., & West, T. V. (2019). Bringing close others to the emergency department for an acute coronary event is associated with increased patient perception of threat. General Hospital Psychiatry, 56, 42-49. doi: 10.1016/j.genhosppsych.2018.12.002
+
+24.	Birk, J. L., Kronish, I. M., Chang, B. P., Cornelius, T., Abdalla, M., Schwartz, J. E., Duer-Hefele, J., Sullivan, A. M., & Edmondson, D. (2019). The impact of cardiac-induced post-traumatic stress disorder symptoms on cardiovascular outcomes: Design and rationale of the prospective observational Reactions to Acute Care and Hospitalizations (ReACH) study. Health Psychology Bulletin, 3(1), 10–20. doi: 10.5334/hpb.16
+
+25.	Cornelius, T., Voils, C. I., Birk, J. L., Romero, E. K., Edmondson, D., & Kronish, I. M. (2018). Identifying targets for cardiovascular medication adherence interventions through latent class analysis. Health Psychology, 37(11), 1006-1014. doi: 10.1037/hea0000661
+
+26.	Cloutier, M. M., Wiley, J. F., Kuo, C., Cornelius, T., Wang, Z., & Gorin, A. A. (2018). Outcomes of an early childhood obesity prevention program in a low-income community: A pilot, randomized trial. Pediatric Obesity, 13(11), 677-685. doi: 10.1111/ijpo.12458
+
+27.	Cornelius, T., Moise, N., Birk, J. L., Edmondson, D., & Chang, B. (2018). The presence of companions during emergency department evaluation and its impact on perceptions of clinician-patient communication. Emergency Medicine Journal, 35, 701-703. doi: 10.1136/emermed-2018-207735
+
+28.	Cornelius, T., Agarwal, S., Garcia, O., Chaplin, W., Edmondson, D., & Chang, B. (2018). Development and validation of a measure to assess patients’ threat perceptions in the emergency department. Academic Emergency Medicine, 10, 1098-1106. doi: 10.1111/acem.13513
+
+29.	Cornelius, T., Gettens, K., Lenz, E., Foster, G., Wojtanowski, A., & Gorin, A. A. (2018). How prescriptive support affects weight loss in weight-loss intervention participants and their untreated spouses. Health Psychology, 37(8),775-781. doi: 10.1037/hea0000630
+
+30.	Cornelius, T., Birk, J. L., Edmondson, D., & Schwartz, J. E. (2018). Romantic relationship satisfaction and ambulatory blood pressure during social interactions: Specificity or spillover effects?. Annals of Behavioral Medicine. doi: 10.1093/abm/kay030
+
+31.	Cornelius, T., Birk, J. L., Edmondson, D., & Schwartz, J. E. (2018). The joint influence of emotional reactivity and social interaction quality on cardiovascular responses to daily social interactions in working adults. Journal of Psychosomatic Research, 108, 70-77. doi: 10.1016/j.jpsychores.2018.02.010
+
+32.	Gorin, A. A., Lenz, E. M., Cornelius, T., Huedo-Medina, T., Wojtanowski, A. C., & Foster, G. D. (2018). Randomized controlled trial examining the ripple effect of a nationally available weight management program on untreated spouses. Obesity, 26, 499-504. doi: 10.1002/oby.22098
+
+33.	Cornelius, T., Desrosiers, A., & Kershaw, T. (2017). Smoking concordance during pregnancy: Are there relationship benefits? Social Science & Medicine, 192, 30-35. doi: 10.1016/j.socscimed.2017.09.027
+
+34.	Gorin, A. A., Powers, T. A., Gettens, K., Cornelius, T., Koestner, R., Mobley, A. R., Pescatello, L., & Huedo-Medina, T. (2017). Project TEAMS (Talking about Eating, Activity, and Mutual Support):  A randomized controlled trial of a theory-based weight loss program for couples. BMC Public Health, 749. doi: 10.1186/s12889-017-4732-7
+
+35.	Schwartz, M., B., Henderson, K. E., Read, M., & Cornelius, T. (2017). Student acceptance of plain milk increases significantly two years after flavored milk is removed from school cafeterias: An observational study. Journal of the Academy of Nutrition and Dietetics, S2212-2672(17), 30550-30556. doi: 10.1016/j.jand.2017.05.021
+ 
+36.	Cornelius, T., & Kershaw, T. (2017). Perception of partner sexual history: Effects on safe-sex intentions. Health Psychology, 36(7), 704-712. doi: 10.1037/hea0000474
+
+37.	Kalichman, S. C., Price, D., Eaton, L. A., Burnham, K., Sullivan, M., Finneran, S., Cornelius, T., & Allen, A. (2017). Diminishing perceived threat of AIDS and increasing sexual risks of HIV among men who have sex with men, 1997–2015. Archives of Sexual Behavior, 46(4), 895-902. doi: 10.1007/s10508-016-0934-9
+
+38.	Cornelius, T., Earnshaw, V. A., Menino, D., Bogart, L. M., & Levy, S. (2017). Treatment motivation among caregivers and adolescents with substance use disorders. Journal of Substance Abuse Treatment, 75, 10-16. doi: 10.1016/j.jsat.2017.01.003
+
+39.	Cornelius, T., Jones, M., Merly, C., Welles, B., Kalichman, M. O., & Kalichman, S. C. (2016). Impact of food, housing, and transportation insecurity on ART adherence: A hierarchical resources approach. AIDS Care, 1-9. doi: 10.1080/09540121.2016.1258451
+
+40.	Cornelius, T., Desrosiers, A., & Kershaw, T. (2016). Spread of health behaviors in young couples: How relationship power shapes relational influence. Social Science & Medicine, 165, 46-55. doi: 10.1016/j.socscimed.2016.07.030
+
+41.	Cornelius, T., Gettens, K., & Gorin, A. A. (2016). Dyadic dynamics in a randomized weight-loss intervention. Annals of Behavioral Medicine, 50(4), 506-515. doi: 10.1007/s12160-016-9778-8
+
+42.	Selby, E. A., Cornelius, T., Fehling, K., Kranzler, A., Panza, E. A., Lavender, J., Wonderlich, S.A., Crosby, R. D., Engel, S.G., Mitchell, J. E., Crow, S. J., Peterson, C. B., & Le Grange, D. (2015). A perfect storm: Examining the synergistic effects of negative and positive emotional instability on promoting weight loss activities in anorexia nervosa. Frontiers in Psychology, 6, 1260. doi: 10.3389/fpsyg.2015.01260
+
+43.	Cornelius, T., & Blanton, H. (2015). The limits to pride: A test of the pro-anorexia hypothesis. Eating Disorders: The Journal of Treatment & Prevention, 24(2), 138-147. doi: 10.1080/10640266.2014.1000102
+
+
+# Invited Oral and Poster Presentations
+
+1.	Cornelius, T., Birk, J., Edmondson, D., Sumner, J., Derby, L., & Davidson, K. W. (2019). Validated measures of mediators of behaviour change: The Science of Behaviour Change Measures Repository. Oral presentation at the 33rd Annual Conference of the European Health Psychology Society, Dubrovnik, Croatia.
+
+2.	Cornelius, T., Vilchinsky, N., Fait, K., Dekel, R., Matetzky, S., & Hod, H. (2019). Early exposure to cardiac treatment and distress among patients and their caregiving partners. Poster presented at the 33rd Annual Conference of the European Health Psychology Society, Dubrovnik, Croatia.
+
+3.	Cornelius, T., Gettens, K., Powers, T., & Gorin, A. A. (2019, March). Increasing autonomy support to promote weight loss in couples. Paper presented at the 77th Annual Scientific Meeting of the American Psychosomatic Society, Vancouver, BC.
+
+4.	Birk, J. L., Sumner, J. A., Shechter, S., Cornelius, T., Schwartz, J. E., & Edmondson, D. E. (2019). An examination of diurnal heart rate and cardiac-related intrusive thoughts in acute coronary syndrome patients with and without posttraumatic stress symptoms. Oral presentation at the 77th Annual Scientific Meeting of the American Psychosomatic Society, Vancouver, BC.
+
+5.	Agarwal, S., Presciutti, A., Cornelius, T., Birk, J. L., Roh, D. J., Park, S., ... & Edmondson, D. E. (2018). Cardiac arrest-induced posttraumatic stress increases 1-year risk of major adverse cardiovascular events and all-cause mortality. Paper presented at the American Heart Association Scientific Sessions, Chicago, IL.
+
+6.	Cornelius, T., Meli, L., & Edmondson, D. E. (2018, May). The presence of close others and emergency department threat perceptions in patients evaluated for acute coronary syndrome. Poster presented at the 30th Annual Convention of the Association for Psychological Science, San Francisco, CA.
+
+7.	Cornelius, T., Gettens, K., Lenz, E., Wojtanowski, A.C., Foster, G. D., & Gorin, A.A. (2018, April). What can social and environmental context tell us about weight loss?. Poster presented at the 39th Annual Meeting and Scientific Sessions of the Society of Behavioral Medicine, New Orleans, LA.
+
+8.	Wyckoff, E.P., Cornelius, T., Lenz, E., Foster, G. D., Wojtanowski, A. C., Gorin, A. A. (2018, April). The influence of chaos in the home on the home food environment following a weight-loss program. Paper presented at the 39th Annual Meeting and Scientific Sessions of the Society of Behavioral Medicine, New Orleans, LA.
+
+9.	Cornelius, T., Birk, J. L., Edmondson, D., Schwartz, J. E. (2018, April). Romantic relationship satisfaction and ambulatory blood pressure during social interactions. Poster presented at the 39th Annual Meeting and Scientific Sessions of the Society of Behavioral Medicine, New Orleans, LA.
+
+10.	Cornelius, T., Voils, C. I., Birk, J. L., Romero, E. K., Edmondson, D. E., & Kronish, I. M. (2018, March). Identifying targets for cardiovascular medication adherence interventions through latent class analysis. Paper presented at the 76th Annual Scientific Meeting of the American Psychosomatic Society, Louisville, KY.
+
+11.	Birk, J. L., Cornelius, T., Edmondson, D. E., & Schwartz, J. E. (2018, March). Association of perseverative thinking duration with subjective stress and ambulatory blood pressure. Paper presented at the 76th Annual Scientific Meeting of the American Psychosomatic Society, Louisville, KY.
+
+12.	Garcia, O., Buckley, C., Sanchez, G., Edmondson, D., Cornelius, T.* (2018). Living with a partner: Acute coronary syndrome patients and sleep quality. Poster presented at the 76th Annual Scientific Meeting of the American Psychosomatic Society, Louisville, KY.
+
+13.	Boehler-Tatman, M., Cruz, G., Cornelius, T., & Edmondson, D. E. (2018, March). Development of a brief assessment tool to identify patients at heightened risk for cardiac-induced PTSD. Poster presented at the 76th Annual Scientific Meeting of the American Psychosomatic Society, Louisville, KY.
+
+14.	Cornelius T. (2018, February). Dyadic support processes and health: Extension to acute cardiovascular events. Invited talk presented at the Columbia Couples Lab meeting, Department of Psychology, Columbia University, New York, NY.
+
+15.	Cornelius, T., Birk, J. L., Edmondson, D., Schwartz, J. E. (2017, October). Pleasantness of social interactions and emotional reactivity interact to predict ambulatory blood pressure and heart rate. Poster presented at the Mid-Year Meeting of the American Psychosomatic Society, Berkeley, CA.
+
+16.	Cornelius, T., Gettens, K., Lenz, E., Foster, G., Wojtanowski, A., & Gorin, A. A. (2017, November). Obligation, persuasion, and pressure, oh my! Directive support and weight loss in context. Paper presented at Obesity Week and TOS Annual Meeting, Washington, D.C.
+
+17.	Cornelius, T., Earnshaw, V. A., Menino, D., Bogart, L., & Levy, S. (2017, March). Treatment motivation among caregivers and adolescents with substance use disorders. Poster presented at the 38th Annual Meeting and Scientific Sessions of the Society of Behavioral Medicine, San Diego, CA.
+
+18.	Gorin, A. A., Lenz, E. M., Huedo-Medina, T., Cornelius, T., Wojtanowski, A., & Foster, G. D. (2016, November). Ripple effect of a nationally available weight loss program on untreated spouses. Paper presented at Obesity Week and TOS Annual Meeting, New Orleans, LA.
+
+19.	Cornelius, T., Jones, M., & Kalichman, S. (2016, March). Indirect effects of food, housing, and transportation insecurity on ART adherence: A hierarchical resources approach. Poster presented at the 37th Annual Meeting and Scientific Sessions of the Society of Behavioral Medicine, Washington D.C.
+
+20.	Cornelius, T., Gettens, K., & Gorin, A. A. (2016, January). Pair dynamics in a weight-loss intervention. Poster presented at the 17th annual meeting of the Society for Personality and Social Psychology, San Diego, CA.
+
+21.	Gettens, K., Cornelius, T., Powers, T., & Gorin, A. A. (2015, November). Gender differences in effects of motivation to exercise on physical activity levels among college students: A self-determination theory approach. Poster presented at Obesity Week and TOS Annual Meeting, Los Angeles, CA.
+
+22.	Cornelius, T., & Blanton, H. (2014, February). The limits to pride: A test of the pro-anorexia hypothesis. Poster presented at the 16th annual meeting of the Society for Personality and Social Psychology, Long Beach, CA.

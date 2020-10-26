@@ -1,0 +1,26 @@
+---
+title: "Talea Cornelius, PhD, MSW"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# About
+
+Dr. Cornelius conducts research focused on understanding health behaviors in the social context in which they are performed. In particular, her work explores how an acute medical event, such as an acute coronary syndrome or a stroke, impacts patients and partners alike. In particular, she focuses on the Emergency Department (ED) experience, and how partner presence in the ED can both facilitate and undermine patient wellbeing. Dr. Cornelius is also exploring novel applications of dyadic analysis to interdependent, individual-level processes.
+
+ <img src="https://pbs.twimg.com/media/EDmpPRBXkAAv2Dq.jpg" style="width:25%">
+ 
+
+# Experience
+
+ [Academic and Professional Experience](about.html)
+
+
+
+
+
+
+
