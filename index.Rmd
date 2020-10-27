@@ -17,6 +17,11 @@ Dr. Cornelius conducts research focused on understanding health behaviors in the
 # Experience
 
  [Academic and Professional Experience](about.html)
+ 
+
+# Plotly
+  
+  [Plotly Plots](flexdash.html)
 
 
 

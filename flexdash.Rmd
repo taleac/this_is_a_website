@@ -1,0 +1,93 @@
+---
+title: "Plots"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(gtools)
+library(p8105.datasets)
+data("instacart")
+
+library(plotly)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+```{r data cleaning 1}
+days_df=
+  tibble(
+    order_dow = 0:6,
+    day_of_week = c("Sunday", "Monday", "Tuesday", "Wednesday",
+                    "Thursday", "Friday", "Saturday")
+  )
+
+instacart = instacart %>%
+  left_join(days_df, by = "order_dow") %>%
+  mutate(
+    day_of_week = forcats::fct_relevel(day_of_week, c("Sunday", "Monday", "Tuesday", "Wednesday",
+                    "Thursday", "Friday", "Saturday"))
+    ) 
+```
+```{r data cleaning 2}
+instacart = instacart %>%
+  mutate(days_since_factor = as.factor(quantcut(days_since_prior_order, q=8))) %>%
+  mutate(days_since = plyr::revalue(days_since_factor, c("[0,5]"="0 to 5", "(5,7]"="5 to 7", "(7,10]" = "7 to 10",
+          "(10,15]" = "10 to 15", "(15,22]" = "15 to 22", "(22,30)" = "22 to 30",
+          "30" = "30+")))
+```
+
+### Chart A
+
+```{r Chart A}
+instacart %>%
+  subset(department %in% c("alcohol", "snacks")) %>% 
+  group_by(department, order_id) %>%
+  summarize(n_items = n()) %>%
+  pivot_wider(
+              names_from = "department",
+              values_from = "n_items") %>%
+  mutate_all(~replace(., is.na(.), 0)) %>%
+ plot_ly(
+   x = ~snacks, y = ~alcohol, type = "scatter", mode = "markers", 
+     alpha = 0.5, colors = "viridis") %>%
+  layout(title = "Snacks and Alcohol Items Ordered",
+      xaxis = list(title = "Number of Snack Items Ordered"),
+      yaxis = list(title = "Number of Alcohol Items Ordered")
+    )
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r Chart B}
+instacart %>%
+  group_by(order_id, days_since) %>%
+  summarize(n_items = n()) %>%
+  group_by(days_since) %>%
+  summarize(n_mean = mean(n_items)) %>%
+  plot_ly(x = ~days_since, y = ~n_mean, color = ~days_since, type = "bar", colors = "viridis")%>%
+  layout(title = "Mean Number of Items In Each Order, by Days Since Prior Order",
+      xaxis = list(title = "Days Since Prior Order"),
+      yaxis = list(title = "Mean Number of Items per Order")
+    )
+```
+
+### Chart C
+
+```{r Chart C}
+# nyc_airbnb %>% 
+#   count(neighbourhood) %>% 
+#   mutate(neighbourhood = fct_reorder(neighbourhood, n)) %>% 
+#   plot_ly(x = ~neighbourhood, y = ~n, color = ~neighbourhood, type = "bar", colors = "viridis")
+```
+
+ 
+
