@@ -73,8 +73,8 @@ instacart %>%
   summarize(n_items = n()) %>%
   group_by(days_since) %>%
   summarize(n_mean = mean(n_items)) %>%
-  plot_ly(x = ~days_since, y = ~n_mean, color = ~days_since, type = "bar", colors = "viridis")%>%
-  layout(title = "Mean Number of Items In Each Order, by Days Since Prior Order",
+  plot_ly(x = ~days_since, y = ~n_mean, color = ~days_since, type = "bar", colors = "viridis") %>%
+  layout(title = "Mean Items per Order by Days Since Prior Order",
       xaxis = list(title = "Days Since Prior Order"),
       yaxis = list(title = "Mean Number of Items per Order")
     )
@@ -83,10 +83,37 @@ instacart %>%
 ### Chart C
 
 ```{r Chart C}
-# nyc_airbnb %>% 
-#   count(neighbourhood) %>% 
-#   mutate(neighbourhood = fct_reorder(neighbourhood, n)) %>% 
-#   plot_ly(x = ~neighbourhood, y = ~n, color = ~neighbourhood, type = "bar", colors = "viridis")
+
+instacart %>% 
+  subset(department %in% c("alcohol", "snacks", "produce")) %>% 
+  group_by(department, order_id) %>%
+  summarize(n_items = n()) %>%
+  pivot_wider(
+              names_from = "department",
+              values_from = "n_items") %>%
+  mutate_all(~replace(., is.na(.), 0)) %>%
+  plot_ly() %>%
+  add_trace(
+    type = 'scatterternary',
+    mode = 'markers',
+    a = ~alcohol,
+    b = ~snacks,
+    c = ~produce,
+    marker = list( 
+      symbol = 100,
+      size = 14,
+      line = list('width' = 2)
+    )
+  )  %>%
+    layout(
+    title="Relative Proportions of Alcohol, Snacks, and Produce",
+    ternary=list(aaxis=list(title="Alcohol"),
+    baxis = list(title="Snacks"),
+    caxis = list(title="Produce")),
+    paper_bgcolor = 'rgb(243, 243, 243)',
+    plot_bgcolor = 'rgb(243, 243, 243)'
+    )
+
 ```
 
  
