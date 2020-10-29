@@ -74,7 +74,7 @@ instacart %>%
   group_by(days_since) %>%
   summarize(n_mean = mean(n_items)) %>%
   plot_ly(x = ~days_since, y = ~n_mean, color = ~days_since, type = "bar", colors = "viridis") %>%
-  layout(title = "Mean Items per Order by Days Since Prior Order",
+  layout(title = list(text="Mean Items per Order", y=1.2),
       xaxis = list(title = "Days Since Prior Order"),
       yaxis = list(title = "Mean Number of Items per Order")
     )
@@ -92,6 +92,7 @@ instacart %>%
               names_from = "department",
               values_from = "n_items") %>%
   mutate_all(~replace(., is.na(.), 0)) %>%
+  dplyr::sample_n(5000) %>%
   plot_ly() %>%
   add_trace(
     type = 'scatterternary',
@@ -106,7 +107,7 @@ instacart %>%
     )
   )  %>%
     layout(
-    title="Relative Proportions of Alcohol, Snacks, and Produce",
+    title= list(text="Relative Proportions (sum to 1)", x=0.01),
     ternary=list(aaxis=list(title="Alcohol"),
     baxis = list(title="Snacks"),
     caxis = list(title="Produce")),
